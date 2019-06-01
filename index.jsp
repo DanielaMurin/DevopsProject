@@ -1,5 +1,5 @@
 <html>
-<head><title>Fourth JSP</title></head>
+<head><title>Fifth JSP</title></head>
 <body>
   <%
     double num = Math.random();
@@ -9,7 +9,7 @@
   <%
     } else {
   %>
-      <h2>Well, life goes on ... </h2><p>(<%= num %>)</p>
+      <h2>Well, life goes on ...... </h2><p>(<%= num %>)</p>
   <%
     }
   %>
